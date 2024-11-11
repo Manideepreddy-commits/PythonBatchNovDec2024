@@ -54,4 +54,30 @@ To push the changes:
    To create new branch
 
       git checkout -b<New Branch Name>
+
+### Course Completed
+
+    [Class 00 04th Nov 2024](ZoomRecordinglink)
+
+           00. Dev setup
+               Installing IDE/editor
+               Installing Python and local setup
+               github access creating Project
+
+    [class 01 06th Nov 2024](ZoomRecordinglink)
+
+             git commands
+             markdown syntax
+             daily activities and usage 
+          
+         01 Introduction 
+            Importance of python 
+            Two versions of python(2.x & 3.x)
          
+### Next class
+     Built- Funtions
+     Comment Operator
+     keywords and Identifiers
+     Line Continuation and statement separetor operators
+
+   
