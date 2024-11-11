@@ -1,0 +1,29 @@
+source  code management(version control tools)
+  
+  github
+  bitbucket
+  gitlab
+
+git is a process for version control
+
+project
+   branchs
+      main/master
+
+real time project
+    SDLC
+    Software development life cycle
+    Requirement gathering- development-testing-production
+
+branches
+    Feature branch(individual)
+    develop branch(team work)
+    uat(staging) branch(client will test)
+    master branch
+
+our branch setup
+    main/master..final code
+     class01
+     class02
+     class03
+     
