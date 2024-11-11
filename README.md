@@ -1,6 +1,6 @@
 # Pythonbatchnovdec2024
-  A Repository with all the classes Material for becoming a python developer
-
+ 
+ 
 
 ## git commands
  
@@ -35,3 +35,23 @@ To commint the changes:
 To push the changes:
 
     git push origin< sourceBranch>
+         Class01-main
+      ex:git push origin class01
+   
+### Daily 
+    To check the branch is clean
+    
+       git status
+
+   To checkout the main branch
+
+      git checkout main
+
+   To get the latest changes
+
+      git pull origin main
+
+   To create new branch
+
+      git checkout -b<New Branch Name>
+         
