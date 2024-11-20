@@ -73,11 +73,18 @@ To push the changes:
          01 Introduction 
             Importance of python 
             Two versions of python(2.x & 3.x)
-         
+
+    [Class02 11th Nov 2024](zoomrecordinglink)
+       
+        pep 8 Guideline(https://peps.python.org/pep-0008/)
+          Built-In-Functions
+        
+    [Class03 13th Nov 2024](zoomrecordinglink)
+
+         comment operator
+         keywords and Identifiers
+         line continuation and statement separator operator
 ### Next class
-     Built- Funtions
-     Comment Operator
-     keywords and Identifiers
-     Line Continuation and statement separetor operators
+    
 
    
