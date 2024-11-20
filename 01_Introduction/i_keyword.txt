@@ -1,0 +1,16 @@
+Reserved keywords(35 in python 3.X)
+
+False	def	     if	      raise
+None	del	     import	  return
+True	elif	 in	      try
+and	    else	 is	      while
+as	    except	 lambda	  with
+assert	finally	 nonlocal	yield
+break	for	     not
+class	form	 or
+continue	global	pass
+
+Note: These reserved keywords should not be used for
+Variables:
+  keyword
+  Identifier
